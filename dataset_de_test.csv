@@ -1,0 +1,16 @@
+nb_heure_dev,nb_heure_reseau_com,note_stat,interet_design,nb_logiciels,lecture_economique ,parcours
+15,5,10,2,3,0,DA2I
+12,3,12,1,2,1,DA2I
+18,2,11,3,4,0,DA2I
+2,15,16,7,2,1,AES
+3,18,18,6,1,1,AES
+4,12,17,8,2,1,AES
+5,20,9,9,5,0,RPM
+6,22,8,10,6,0,RPM
+7,25,10,10,7,0,RPM
+14,4,12,2,3,0,DA2I
+3,16,19,7,1,1,AES
+5,21,9,9,6,0,RPM
+13,3,11,1,4,0,DA2I
+2,14,17,7,2,1,AES
+6,23,8,10,6,0,RPM
